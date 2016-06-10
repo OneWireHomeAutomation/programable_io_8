@@ -1,5 +1,6 @@
 language: eagle
 install:
+- pip install cairocffi
 - wget https://github.com/I2SE/eagle-bom.py/releases/download/v0.2.0/eagle-bom.py
 script:
 - chmod +x release.sh
