@@ -2785,10 +2785,10 @@ design rules under a new name.</description>
 <element name="IC1" library="1wire" package="SO16" value="DS2408" x="19.742" y="16.228" smashed="yes" rot="R90">
 <attribute name="NAME" x="20.217" y="16.5" size="0.6096" layer="25" rot="R180"/>
 </element>
-<element name="R1" library="rcl" package="R0402" value="5" x="34.25" y="3.25" smashed="yes" rot="R90">
+<element name="R1" library="rcl" package="R0402" value="5.1" x="34.25" y="3.25" smashed="yes" rot="R90">
 <attribute name="NAME" x="35.025" y="3.847" size="0.6096" layer="25" rot="R270"/>
 </element>
-<element name="R2" library="rcl" package="R0402" value="5" x="27.5" y="6.75" smashed="yes" rot="R90">
+<element name="R2" library="rcl" package="R0402" value="5.1" x="27.5" y="6.75" smashed="yes" rot="R90">
 <attribute name="NAME" x="27.725" y="4.665" size="0.6096" layer="25" rot="R90"/>
 </element>
 <element name="D9" library="diode" package="SOT23" value="BAT54" x="23.172" y="10.437" smashed="yes" rot="R90">
@@ -2818,49 +2818,49 @@ design rules under a new name.</description>
 <element name="R9" library="resistor" package="R0402" value="100k" x="26.5" y="29.5" smashed="yes">
 <attribute name="NAME" x="26.751" y="29.969" size="0.6096" layer="25"/>
 </element>
-<element name="D8" library="diodes" package="DO214AC" value="SMA6F7.5A" x="30" y="3" smashed="yes" rot="R180">
+<element name="D8" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="30" y="3" smashed="yes" rot="R180">
 <attribute name="NAME" x="28.19" y="2.766" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D1" library="diodes" package="DO214AC" value="SMA6F7.5A" x="15" y="26" smashed="yes">
+<element name="D1" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="15" y="26" smashed="yes">
 <attribute name="NAME" x="15.91" y="25.746" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D2" library="diodes" package="DO214AC" value="SMA6F7.5A" x="15" y="29" smashed="yes">
+<element name="D2" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="15" y="29" smashed="yes">
 <attribute name="NAME" x="15.81" y="28.696" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D3" library="diodes" package="DO214AC" value="SMA6F7.5A" x="15" y="32" smashed="yes">
+<element name="D3" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="15" y="32" smashed="yes">
 <attribute name="NAME" x="15.87" y="31.756" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D4" library="diodes" package="DO214AC" value="SMA6F7.5A" x="15" y="35" smashed="yes">
+<element name="D4" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="15" y="35" smashed="yes">
 <attribute name="NAME" x="15.76" y="34.806" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D5" library="diodes" package="DO214AC" value="SMA6F7.5A" x="22" y="35" smashed="yes" rot="R180">
+<element name="D5" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="22" y="35" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.19" y="34.672" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D6" library="diodes" package="DO214AC" value="SMA6F7.5A" x="22" y="32" smashed="yes" rot="R180">
+<element name="D6" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="22" y="32" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.062" y="31.616" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D7" library="diodes" package="DO214AC" value="SMA6F7.5A" x="22" y="29" smashed="yes" rot="R180">
+<element name="D7" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="22" y="29" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.036" y="28.728" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="R10" library="rcl" package="R0402" value="5" x="16.567" y="10.643" smashed="yes" rot="R270">
+<element name="R10" library="rcl" package="R0402" value="5.1" x="16.567" y="10.643" smashed="yes" rot="R270">
 <attribute name="NAME" x="15.808" y="9.882" size="0.6096" layer="25" rot="R90"/>
 </element>
-<element name="R11" library="rcl" package="R0402" value="5" x="17.837" y="21.816" smashed="yes" rot="R90">
+<element name="R11" library="rcl" package="R0402" value="5.1" x="17.837" y="21.816" smashed="yes" rot="R90">
 <attribute name="NAME" x="18.122" y="23.061" size="0.6096" layer="25" rot="R90"/>
 </element>
-<element name="R12" library="rcl" package="R0402" value="5" x="19.117" y="21.804" smashed="yes" rot="R90">
+<element name="R12" library="rcl" package="R0402" value="5.1" x="19.117" y="21.804" smashed="yes" rot="R90">
 <attribute name="NAME" x="19.462" y="23.139" size="0.6096" layer="25" rot="R90"/>
 </element>
-<element name="R13" library="rcl" package="R0402" value="5" x="20.377" y="21.816" smashed="yes" rot="R90">
+<element name="R13" library="rcl" package="R0402" value="5.1" x="20.377" y="21.816" smashed="yes" rot="R90">
 <attribute name="NAME" x="20.108" y="24.729" size="0.6096" layer="25" rot="R270"/>
 </element>
-<element name="R14" library="rcl" package="R0402" value="5" x="21.637" y="21.834" smashed="yes" rot="R90">
+<element name="R14" library="rcl" package="R0402" value="5.1" x="21.637" y="21.834" smashed="yes" rot="R90">
 <attribute name="NAME" x="21.792" y="23.239" size="0.6096" layer="25" rot="R90"/>
 </element>
-<element name="R15" library="rcl" package="R0402" value="5" x="24.157" y="21.774" smashed="yes" rot="R90">
+<element name="R15" library="rcl" package="R0402" value="5.1" x="24.157" y="21.774" smashed="yes" rot="R90">
 <attribute name="NAME" x="24.562" y="22.929" size="0.6096" layer="25" rot="R90"/>
 </element>
-<element name="R16" library="rcl" package="R0402" value="5" x="27.5" y="18.25" smashed="yes" rot="R90">
+<element name="R16" library="rcl" package="R0402" value="5.1" x="27.5" y="18.25" smashed="yes" rot="R90">
 <attribute name="NAME" x="27.865" y="15.615" size="0.6096" layer="25" rot="R90"/>
 </element>
 <element name="R18" library="resistor" package="R0402" value="100k" x="22.922" y="21.787" smashed="yes" rot="R90">
@@ -2883,13 +2883,13 @@ design rules under a new name.</description>
 <element name="R17" library="resistor" package="R0402" value="100k" x="26.5" y="26.5" smashed="yes">
 <attribute name="NAME" x="26.615" y="27.012" size="0.6096" layer="25"/>
 </element>
-<element name="D10" library="diodes" package="DO214AC" value="SMA6F7.5A" x="22" y="26" smashed="yes" rot="R180">
+<element name="D10" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="22" y="26" smashed="yes" rot="R180">
 <attribute name="NAME" x="20" y="25.5" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="D11" library="diodes" package="DO214AC" value="SMA6F7.5A" x="27.01" y="11.96" smashed="yes" rot="R270">
+<element name="D11" library="diodes" package="DO214AC" value="SMAJ7.5A-LF" x="27.01" y="11.96" smashed="yes" rot="R270">
 <attribute name="NAME" x="27.454" y="9.9" size="0.6096" layer="25" ratio="10" rot="R90"/>
 </element>
-<element name="R19" library="rcl" package="R0402" value="5" x="26" y="18.25" smashed="yes" rot="R90">
+<element name="R19" library="rcl" package="R0402" value="5.1" x="26" y="18.25" smashed="yes" rot="R90">
 <attribute name="NAME" x="26.365" y="15.615" size="0.6096" layer="25" rot="R90"/>
 <attribute name="VALUE" x="27.905" y="17.615" size="1.27" layer="27" rot="R90"/>
 </element>

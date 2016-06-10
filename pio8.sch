@@ -9378,8 +9378,8 @@ type RDH, grid 15 mm</description>
 <part name="IC1" library="1wire" deviceset="DS2408" device=""/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
 <part name="D9" library="diode" deviceset="BAT54" device=""/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0402K" value="100n"/>
 <part name="R3" library="resistor" deviceset="R-EU_" device="R0402" value="100k"/>
@@ -9389,28 +9389,28 @@ type RDH, grid 15 mm</description>
 <part name="R7" library="resistor" deviceset="R-EU_" device="R0402" value="100k"/>
 <part name="R8" library="resistor" deviceset="R-EU_" device="R0402" value="100k"/>
 <part name="R9" library="resistor" deviceset="R-EU_" device="R0402" value="100k"/>
-<part name="D8" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D1" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D2" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D3" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D4" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D5" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D6" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D7" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="R10" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R13" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R14" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R15" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
-<part name="R16" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
+<part name="D8" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D1" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D2" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D3" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D4" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D5" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D6" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D7" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="R10" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R11" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R12" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R13" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R14" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R15" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
+<part name="R16" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
 <part name="R18" library="resistor" deviceset="R-EU_" device="R0402" value="100k"/>
 <part name="X7" library="con-phoenix-508" deviceset="MSTBV5" device=""/>
 <part name="X8" library="con-phoenix-508" deviceset="MSTBV5" device=""/>
 <part name="R17" library="resistor" deviceset="R-EU_" device="R0402" value="100k"/>
-<part name="D10" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="D11" library="diodes" deviceset="ZENER" device="" value="SMA6F7.5A"/>
-<part name="R19" library="rcl" deviceset="R-EU_" device="R0402" value="5"/>
+<part name="D10" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="D11" library="diodes" deviceset="ZENER" device="" value="SMAJ7.5A-LF"/>
+<part name="R19" library="rcl" deviceset="R-EU_" device="R0402" value="5.1"/>
 <part name="X1" library="con-phoenix-508" deviceset="MSTBV3" device=""/>
 </parts>
 <sheets>
