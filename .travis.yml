@@ -1,0 +1,14 @@
+language: eagle
+install:
+- wget https://github.com/I2SE/eagle-bom.py/releases/download/v0.2.0/eagle-bom.py
+script:
+- chmod +x release.sh
+- ./release.sh
+deploy:
+  provider: releases
+  api_key:
+    secure: RDE9bU+332kUMVflG8mNcnx4J63uyfvavN/WZOdBTzhVAygZ+yNoUebtcTC1Oib1xIf8Plx/YU2r94z8LX56EcfAfdNqTiUNkCGGJuzEq/wohRQkhsQDmcFsNywWB7J2wY3ttcmOb3tqjDFBl7XVHijM9k2DxOJgK15DWvX5TO01cmiXrftesNJmk/dHVABGV5NKzZzdwP9/2bQltx+prQcioTmKjoEToypNprSwmM/QPki/Iape1B+ONjmKJzOFearPCXbdBkg2l7sMwNlA8Qmx8ofKKFa48nMCwhiiDMhHvljBOohhsYga7NVXkoVr8Y0XG3/Gmws/oMCdOeTs/fEyQoKgeXVN8h3UyZ5IY2+co6yHy29LbvhWdfsCyEEAOK4d7UiSvs54yMN1hCFF/cuRJ4hk7oYpQKFrPC6jbv0LoCkle6MAyDnWsfaxbjWYxfgl6Uhp/V8kONYnu9FgE9rI/Vfmqk5nZgTx39S1v8YEKhSbmZoCwSFFKX/c326KEQcoDXqUrbVhKyH6UJnX4mAh5kRqSCh3ihPdMIUq5HjixOQGjmaJc7b1HKvMX4YJdhTFDld675FowYcGYm6nGjPxwNuFvBSZJNgcRaJau3wtsZf2q24SHzHXI6R+gGM3j5TOoWZkmpCqhnMStxVNWByGL6g8PkSH1QNZQb8JnhI=
+  file: pio8.zip
+  on:
+    repo: OneWireHomeAutomation/programable_io_8
+    tags: true
